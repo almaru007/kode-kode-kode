@@ -1,0 +1,153 @@
+cohort_month,acquisition_channel,maturation_window,active_users,revenue_nok
+2025-01,Google Search,Day 0 (Initial),37,32165.83
+2025-01,Google Search,Day 1-30,1,482.32
+2025-01,Google Search,Day 31-60,4,3131.39
+2025-01,Google Search,Day 61-90,2,1273.21
+2025-01,LinkedIn Ads,Day 0 (Initial),14,24322.57
+2025-01,LinkedIn Ads,Day 1-30,2,2976.36
+2025-01,LinkedIn Ads,Day 31-60,2,3413.59
+2025-01,Meta Ads,Day 0 (Initial),51,43156.3
+2025-01,Meta Ads,Day 1-30,6,5774.79
+2025-01,Meta Ads,Day 31-60,4,3883.99
+2025-01,Meta Ads,Day 61-90,3,2313.48
+2025-01,TikTok Ads,Day 0 (Initial),15,17288.239999999998
+2025-01,TikTok Ads,Day 1-30,1,971.01
+2025-01,TikTok Ads,Day 31-60,1,1056.81
+2025-01,TikTok Ads,Day 61-90,1,876.81
+2025-02,Google Search,Day 0 (Initial),26,25893.73
+2025-02,Google Search,Day 31-60,3,3134.24
+2025-02,Google Search,Day 61-90,5,4957.88
+2025-02,LinkedIn Ads,Day 0 (Initial),16,30889.94
+2025-02,LinkedIn Ads,Day 1-30,1,915.07
+2025-02,LinkedIn Ads,Day 31-60,2,3746.7300000000005
+2025-02,Meta Ads,Day 0 (Initial),50,46835.729999999996
+2025-02,Meta Ads,Day 1-30,5,5128.35
+2025-02,Meta Ads,Day 31-60,7,5725.0
+2025-02,Meta Ads,Day 61-90,3,2234.91
+2025-02,TikTok Ads,Day 0 (Initial),18,12796.2
+2025-02,TikTok Ads,Day 1-30,1,407.69
+2025-02,TikTok Ads,Day 61-90,3,2115.66
+2025-03,Google Search,Day 0 (Initial),36,36034.68
+2025-03,Google Search,Day 1-30,3,1886.0
+2025-03,Google Search,Day 31-60,3,2345.79
+2025-03,Google Search,Day 61-90,4,2957.18
+2025-03,LinkedIn Ads,Day 0 (Initial),17,35805.7
+2025-03,LinkedIn Ads,Day 31-60,1,1591.86
+2025-03,Meta Ads,Day 0 (Initial),68,69230.05
+2025-03,Meta Ads,Day 1-30,2,1854.0
+2025-03,Meta Ads,Day 31-60,8,6595.42
+2025-03,Meta Ads,Day 61-90,4,3085.64
+2025-03,TikTok Ads,Day 0 (Initial),21,19047.18
+2025-03,TikTok Ads,Day 31-60,2,2156.8
+2025-03,TikTok Ads,Day 61-90,1,629.48
+2025-04,Google Search,Day 0 (Initial),34,29750.54
+2025-04,Google Search,Day 1-30,2,2011.42
+2025-04,Google Search,Day 31-60,4,2423.66
+2025-04,Google Search,Day 61-90,6,4911.42
+2025-04,LinkedIn Ads,Day 0 (Initial),18,32148.45
+2025-04,LinkedIn Ads,Day 61-90,1,1669.12
+2025-04,Meta Ads,Day 0 (Initial),59,55475.36
+2025-04,Meta Ads,Day 1-30,6,4967.06
+2025-04,Meta Ads,Day 31-60,5,2328.77
+2025-04,Meta Ads,Day 61-90,2,967.8700000000001
+2025-04,TikTok Ads,Day 0 (Initial),22,22626.49
+2025-04,TikTok Ads,Day 31-60,2,2208.48
+2025-04,TikTok Ads,Day 61-90,2,1114.25
+2025-05,Google Search,Day 0 (Initial),42,37205.74
+2025-05,Google Search,Day 1-30,2,1458.63
+2025-05,Google Search,Day 31-60,4,2946.39
+2025-05,Google Search,Day 61-90,5,3867.1499999999996
+2025-05,LinkedIn Ads,Day 0 (Initial),15,33699.72
+2025-05,LinkedIn Ads,Day 31-60,1,1096.38
+2025-05,LinkedIn Ads,Day 61-90,1,2021.31
+2025-05,Meta Ads,Day 0 (Initial),61,54433.07
+2025-05,Meta Ads,Day 1-30,3,2127.3199999999997
+2025-05,Meta Ads,Day 31-60,5,4004.1
+2025-05,Meta Ads,Day 61-90,7,4879.13
+2025-05,TikTok Ads,Day 0 (Initial),24,19896.65
+2025-05,TikTok Ads,Day 31-60,2,1044.46
+2025-05,TikTok Ads,Day 61-90,3,2338.46
+2025-06,Google Search,Day 0 (Initial),28,27248.61
+2025-06,Google Search,Day 1-30,1,1401.33
+2025-06,Google Search,Day 31-60,4,3061.38
+2025-06,Google Search,Day 61-90,1,359.73
+2025-06,LinkedIn Ads,Day 0 (Initial),29,55664.41
+2025-06,LinkedIn Ads,Day 1-30,2,2565.84
+2025-06,LinkedIn Ads,Day 31-60,3,6496.95
+2025-06,LinkedIn Ads,Day 61-90,2,2592.77
+2025-06,Meta Ads,Day 0 (Initial),63,67511.08
+2025-06,Meta Ads,Day 1-30,6,6003.89
+2025-06,Meta Ads,Day 31-60,4,2945.33
+2025-06,Meta Ads,Day 61-90,5,3205.88
+2025-06,TikTok Ads,Day 0 (Initial),20,14010.87
+2025-06,TikTok Ads,Day 1-30,1,781.53
+2025-06,TikTok Ads,Day 31-60,3,3124.81
+2025-06,TikTok Ads,Day 61-90,1,746.93
+2025-07,Google Search,Day 0 (Initial),32,26804.260000000002
+2025-07,Google Search,Day 1-30,3,2751.7000000000003
+2025-07,Google Search,Day 31-60,5,4800.34
+2025-07,Google Search,Day 61-90,1,685.37
+2025-07,LinkedIn Ads,Day 0 (Initial),19,35739.77
+2025-07,LinkedIn Ads,Day 1-30,2,3192.2799999999997
+2025-07,LinkedIn Ads,Day 31-60,6,13012.14
+2025-07,Meta Ads,Day 0 (Initial),63,58310.93
+2025-07,Meta Ads,Day 1-30,6,4469.26
+2025-07,Meta Ads,Day 31-60,5,2805.5299999999997
+2025-07,Meta Ads,Day 61-90,5,4373.87
+2025-07,TikTok Ads,Day 0 (Initial),17,15770.56
+2025-07,TikTok Ads,Day 1-30,1,1661.66
+2025-07,TikTok Ads,Day 31-60,2,1749.78
+2025-07,TikTok Ads,Day 61-90,3,2893.1899999999996
+2025-08,Google Search,Day 0 (Initial),37,32842.47
+2025-08,Google Search,Day 31-60,1,563.65
+2025-08,Google Search,Day 61-90,5,4480.07
+2025-08,LinkedIn Ads,Day 0 (Initial),21,41168.35
+2025-08,LinkedIn Ads,Day 1-30,1,1672.39
+2025-08,LinkedIn Ads,Day 31-60,1,1942.29
+2025-08,LinkedIn Ads,Day 61-90,1,2109.17
+2025-08,Meta Ads,Day 0 (Initial),55,50778.1
+2025-08,Meta Ads,Day 1-30,6,3662.08
+2025-08,Meta Ads,Day 31-60,9,8914.15
+2025-08,Meta Ads,Day 61-90,7,6032.42
+2025-08,TikTok Ads,Day 0 (Initial),19,15312.68
+2025-08,TikTok Ads,Day 31-60,2,1104.83
+2025-08,TikTok Ads,Day 61-90,3,2380.73
+2025-09,Google Search,Day 0 (Initial),24,19701.23
+2025-09,Google Search,Day 31-60,2,1704.6399999999999
+2025-09,LinkedIn Ads,Day 0 (Initial),22,53608.68
+2025-09,LinkedIn Ads,Day 1-30,2,4315.27
+2025-09,LinkedIn Ads,Day 31-60,2,2200.42
+2025-09,LinkedIn Ads,Day 61-90,1,1982.19
+2025-09,Meta Ads,Day 0 (Initial),59,53095.63
+2025-09,Meta Ads,Day 1-30,5,5319.21
+2025-09,Meta Ads,Day 31-60,10,7186.16
+2025-09,Meta Ads,Day 61-90,7,7122.28
+2025-09,TikTok Ads,Day 0 (Initial),14,15886.74
+2025-09,TikTok Ads,Day 1-30,2,1266.3600000000001
+2025-09,TikTok Ads,Day 31-60,3,1744.3600000000001
+2025-10,Google Search,Day 0 (Initial),38,32635.9
+2025-10,Google Search,Day 1-30,1,1253.86
+2025-10,Google Search,Day 31-60,1,1031.55
+2025-10,LinkedIn Ads,Day 0 (Initial),15,25667.87
+2025-10,LinkedIn Ads,Day 1-30,1,1405.15
+2025-10,LinkedIn Ads,Day 61-90,2,2615.98
+2025-10,Meta Ads,Day 0 (Initial),63,63635.69
+2025-10,Meta Ads,Day 1-30,6,5244.39
+2025-10,Meta Ads,Day 31-60,4,3161.17
+2025-10,Meta Ads,Day 61-90,4,3600.06
+2025-10,TikTok Ads,Day 0 (Initial),24,19379.77
+2025-10,TikTok Ads,Day 1-30,2,2042.13
+2025-10,TikTok Ads,Day 31-60,1,988.12
+2025-10,TikTok Ads,Day 61-90,1,1238.31
+2025-11,Google Search,Day 0 (Initial),15,15215.53
+2025-11,LinkedIn Ads,Day 0 (Initial),17,35018.65
+2025-11,LinkedIn Ads,Day 1-30,1,2473.51
+2025-11,LinkedIn Ads,Day 31-60,1,1102.2
+2025-11,Meta Ads,Day 0 (Initial),43,41817.51
+2025-11,Meta Ads,Day 1-30,1,708.02
+2025-11,Meta Ads,Day 31-60,5,3632.4500000000003
+2025-11,TikTok Ads,Day 0 (Initial),17,14984.95
+2025-11,TikTok Ads,Day 1-30,3,2132.52
+2025-11,TikTok Ads,Day 31-60,1,846.31
+2025-12,Meta Ads,Day 0 (Initial),1,674.65
+2025-12,Meta Ads,Day 1-30,1,951.88
